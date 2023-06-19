@@ -76,14 +76,14 @@ namespace WpfAppIfIfI
             }
             else
             {
-                //testen onzin
+                
                 MessageBox.Show("The time is over, your number of clicks is " + _clicks);
                 _timer.Stop();
                 _clicks = 0;
                 _started = false;
                 _Millieseconds = 50;
             }
-
+            //kaasje
         }
 
         private void btClickit(object sender, RoutedEventArgs e)
