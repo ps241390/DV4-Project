@@ -76,7 +76,7 @@ namespace WpfAppIfIfI
             }
             else
             {
-                
+                //extrawindow
                 MessageBox.Show("The time is over, your number of clicks is " + _clicks);
                 _timer.Stop();
                 _clicks = 0;
