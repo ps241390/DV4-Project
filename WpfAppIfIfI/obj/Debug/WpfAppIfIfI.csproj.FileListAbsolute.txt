@@ -1,0 +1,62 @@
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csprojAssemblyReference.cache
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.g.cs
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\App.g.cs
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.cache
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.lref
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe.config
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.pdb
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.baml
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.g.resources
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.Properties.Resources.resources
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.GenerateResource.cache
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.exe
+C:\Programmeren\WPF\_op1\WpfAppIfStatement\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.pdb
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe.config
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.pdb
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csprojAssemblyReference.cache
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.g.cs
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\App.g.cs
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.cache
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.lref
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.baml
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.g.resources
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.Properties.Resources.resources
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.GenerateResource.cache
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.exe
+C:\Programmeren\WPF\_op1\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.pdb
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\Assets\What-if.jpg
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe.config
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.pdb
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csprojAssemblyReference.cache
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.g.cs
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\App.g.cs
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.cache
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.lref
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.baml
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.g.resources
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.Properties.Resources.resources
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.GenerateResource.cache
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.exe
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.pdb
+C:\Programmeren\WPF\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_Content.g.cs
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\Assets\What-if.jpg
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe.config
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.exe
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\bin\Debug\WpfAppIfIfI.pdb
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.AssemblyReference.cache
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.SuggestedBindingRedirects.cache
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.g.cs
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\App.g.cs
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_Content.g.cs
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.cache
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI_MarkupCompile.lref
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\MainWindow.baml
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.g.resources
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.Properties.Resources.resources
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.GenerateResource.cache
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.csproj.CoreCompileInputs.cache
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.exe
+C:\Users\semsa\OneDrive\Documents\School\Docenten\Marijn van de reek\Programmeren 1\WpfAppIfStatement_studenten\WpfAppIfStatement_studenten\WpfAppIfIfI\WpfAppIfIfI\obj\Debug\WpfAppIfIfI.pdb
